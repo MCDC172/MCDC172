@@ -15,7 +15,7 @@ So, with that being said, welcome to my GitHub profile! ✨
 
 
 
-📧 If you want to connect with me, email me at mcdc9717@gmail.com
+
 
 <!---
 MCDC172/MCDC172 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
