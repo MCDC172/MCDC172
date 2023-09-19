@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Maricruz CDC
+# 👋 Hi, I’m Maricruz
 I´m a Physicist (with a Master's in Material Science) pursuing a new career in Data Science!
 
 I would describe myself as curious, creative and observative. 
