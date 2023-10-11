@@ -2,7 +2,7 @@
 I´m a Physicist (with a Master's in Material Science) pursuing a new career in Data Science!
 
 I would describe myself as curious, creative and observative. 
-In May 2023, I decided to change my career path. Since then, I´ve been learning programming skills and developing my ability to analyse and comprehend data in order to solve problems. 
+In May 2023, I decided to change my career path. Since then, I´ve been learning programming skills and developing my ability to analyze and comprehend data in order to solve problems. 
 This journey has been full of ups and downs, but the most important thing is that I'm enjoying every step. 
 
 So, with that being said, welcome to my GitHub profile! ✨
